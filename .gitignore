@@ -1,0 +1,6 @@
+# General
+*.pyc
+
+# Repository specific
+data/*.csv
+data/*.kml
